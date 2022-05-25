@@ -1,0 +1,35 @@
+form{
+    background-color: beige;
+    border: 9px solid aliceblue;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
+label{
+    background-color: beige;
+    padding: 15px;
+    margin: 10px;
+    border: 9px solid white;
+    text-align: center;
+}
+password{
+    background-color: brown;
+    border: 9px solid white;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
+Email address{
+    background-color: grey;
+    border: 9px solid white;
+    text-align: center;
+    padding: 18px;
+    margin: 10px;
+}
+Gender{
+    background-color: orange;
+    border: 9px solid white;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+}
